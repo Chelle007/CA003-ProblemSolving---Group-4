@@ -1,0 +1,3 @@
+ADD001,Chocolates,8,Available
+ADD002,Customized Handwritten card,12,Available
+ADD003,Soft Toys,16,Available
