@@ -1,3 +1,5 @@
+(School Project)
+
 === PREQUISITE before running EchoFlowerApp.py ===
 
 1. set the scale to 125% and display resolution to 1920 x 1080 on Settings
